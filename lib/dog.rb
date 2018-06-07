@@ -11,6 +11,6 @@ class Dog
   end 
   
   def self.all 
-    puts @@all[":name"] 
+    p @@all 
   end 
 end 
