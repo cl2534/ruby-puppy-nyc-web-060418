@@ -13,5 +13,6 @@ class Dog
   def self.all 
     @all.each do |i|
       p i.name 
+    end 
   end 
 end 
